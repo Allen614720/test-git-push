@@ -18,3 +18,4 @@ if __name__ == "__main__":
     h = encrypt_password(pwd)
     print(f"加密结果: {h}")
     print(f"验证结果: {verify_password(pwd, h)}")
+1234567
